@@ -1,3 +1,2 @@
-#demoRepo
-MY First Git Repository 
+My First Git Repository 
 <br>Author- Garima Chourasiya 
